@@ -102,6 +102,7 @@
 	max-width: 340px;
 	margin-left: auto;
 	border: #2d0000 solid 2px;
+	border-bottom:none;
 }
 .bepul-content {
 	display: flex;
@@ -112,6 +113,7 @@
 	font-weight: 400;
 	font-size: 27.87px;
 	color: #fff;
+	text-decoration: line-through #db5355;
 }
 .bepul-content__span {
 	font-weight: 400;
